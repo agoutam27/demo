@@ -1,0 +1,49 @@
+roomsDb:
+  - id: 1
+    name: Room 1
+    description: number 1 room
+    capacity: 4
+    amenities:
+      - tv
+      - sofa
+      - phone
+      - whiteboard
+      - mac
+    address:
+      city: city1
+      addressLine: line1
+      floor: 9
+  - id: 2
+    name: Room 2
+    description: number 2 room
+    capacity: 6
+    amenities:
+      - tv
+      - sofa
+    address:
+      city: city1
+      addressLine: line2
+      floor: 3
+  - id: 3
+    name: Room 3
+    description: number 3 room
+    capacity: 10
+    amenities:
+      - whiteboard
+      - mac
+    address:
+      city: city2
+      addressLine: line3
+      floor: 8
+  - id: 4
+    name: Room 4
+    description: number 4 room
+    capacity: 6
+    amenities:
+      - tv
+      - mac
+    address:
+      city: city2
+      addressLine: line4
+      floor: 5
+
